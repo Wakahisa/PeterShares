@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Peter's Personal Domain</title>
+		<title>{{ page.title }}</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -15,14 +15,14 @@
 		</ul>
 		</nav>
 		<div class="container">
-		<div class="blurb">
-			<h1>Hello there, I'm Peter Trinh!</h1>
-				<p>I'm an information sponge that loves to learn! <a href="/about">More about me..<p>
-		</div><!-- /.blurb -->
+
+		{{ content }}
+		
 		</div><!-- /.container -->
 		<footer>
 		<ul>
-			<li><a href="mailto:peterphantrinh@gmail.com">email</a></li>
+			<li><a href="https://github.com/wakahisa">github</a></li>
+		</ul>
 		</footer>
 	</body>
 </html>
