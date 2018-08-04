@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Motivating interview experience!" 
-date: 2018-07-31
+date: 2018-08-04
 ---
 
 I spent the entirety of the previous night trying to create a simple Java CRUD application with a database without the use of a main method and ran into many bugs, issues, and other problems from not having the technologies set up before hand. 
