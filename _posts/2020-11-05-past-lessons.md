@@ -5,7 +5,7 @@ date: 2020-11-05
 ---
 
 You know what, I'm just going to ramble on about some thoughts and views I use to have in the past. When I was in kindergarten, I won a number of awards and cheered happily about my accomplishments. I don't remember what all the
-rewards were for, but I felt great getting them at the time. I remember Miss Vanhaggle., my kindergarten teacher, giving an award to another student and no one shared in mine nor their enthusiasm. At this time, I had not learned how to 
+rewards were for, but I felt great getting them at the time. I remember Miss Vanhaggle, my kindergarten teacher, giving an award to another student and no one shared in mine nor their enthusiasm. At this time, I had not learned how to 
 be humble and not to gloat yet. In hindsight, I should've accepted my awards graciously and took into consideration the feelings of my classmates. It probably wasn't a big deal then and now it certainly isn't, but who is to say right?
 
 Let's skip forward to first grade with Mrs. Hansen. We took a vocab test that I didn't take seriously and regretted for awhile, but I didn't speak up about not having reached my capacity and that it was a serious endeavor. I can without a doubt
