@@ -15,4 +15,3 @@ History:
 6/2/2018 - Lay out groundwork (May change results)
 
 5/15/2018 - Create repository and learn stack
-
